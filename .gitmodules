@@ -1,3 +1,33 @@
 [submodule "CarND-Extra"]
 	path = CarND-Extra
 	url = https://github.com/Michael-Tu/CarND-Extra.git
+[submodule "CarND-Basic-Lane-Finding"]
+	path = CarND-Basic-Lane-Finding
+	url = https://github.com/Michael-Tu/CarND-Basic-Lane-Finding.git
+[submodule "CarND-Traffic-Sign-Classifier"]
+	path = CarND-Traffic-Sign-Classifier
+	url = https://github.com/Michael-Tu/CarND-Traffic-Sign-Classifier.git
+[submodule "CarND-Behavioral-Cloning"]
+	path = CarND-Behavioral-Cloning
+	url = https://github.com/Michael-Tu/CarND-Behavioral-Cloning.git
+[submodule "CarND-Advanced-Lane-Finding"]
+	path = CarND-Advanced-Lane-Finding
+	url = https://github.com/Michael-Tu/CarND-Advanced-Lane-Finding.git
+[submodule "CarND-Vehicle-Detection-and-Tracking"]
+	path = CarND-Vehicle-Detection-and-Tracking
+	url = https://github.com/Michael-Tu/CarND-Vehicle-Detection-and-Tracking.git
+[submodule "CarND-Extended-Kalman-Filter"]
+	path = CarND-Extended-Kalman-Filter
+	url = https://github.com/Michael-Tu/CarND-Extended-Kalman-Filter.git
+[submodule "CarND-Unscented-Kalman-Filter"]
+	path = CarND-Unscented-Kalman-Filter
+	url = https://github.com/Michael-Tu/CarND-Unscented-Kalman-Filter.git
+[submodule "CarND-Particle-Filter-2D"]
+	path = CarND-Particle-Filter-2D
+	url = https://github.com/Michael-Tu/CarND-Particle-Filter-2D.git
+[submodule "CarND-PID-Controller"]
+	path = CarND-PID-Controller
+	url = https://github.com/Michael-Tu/CarND-PID-Controller.git
+[submodule "CarND-Model-Predictive-Controller"]
+	path = CarND-Model-Predictive-Controller
+	url = https://github.com/Michael-Tu/CarND-Model-Predictive-Controller.git
